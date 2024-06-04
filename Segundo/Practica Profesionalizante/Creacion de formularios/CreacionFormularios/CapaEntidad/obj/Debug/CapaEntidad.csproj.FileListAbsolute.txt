@@ -4,3 +4,9 @@ D:\Documentos\Tecnicatura\Repositorio\Tecnicatura-Carrillo\Segundo\Practica Prof
 D:\Documentos\Tecnicatura\Repositorio\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
 D:\Documentos\Tecnicatura\Repositorio\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CapaEntidad\obj\Debug\CapaEntidad.dll
 D:\Documentos\Tecnicatura\Repositorio\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Note 20\Desktop\ElFachas\Programacion II\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Note 20\Desktop\ElFachas\Programacion II\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Note 20\Desktop\ElFachas\Programacion II\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Note 20\Desktop\ElFachas\Programacion II\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Note 20\Desktop\ElFachas\Programacion II\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Note 20\Desktop\ElFachas\Programacion II\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CapaEntidad\obj\Debug\CapaEntidad.pdb

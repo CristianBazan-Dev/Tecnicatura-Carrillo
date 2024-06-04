@@ -26,5 +26,17 @@ namespace CapaNegocio
 
             }
         }
+
+        public void CrearEmpleado(Empleados Empleado)
+        {
+            try
+            {
+               objcd_empleados.CrearEmpleado(Empleado);
+            } catch (Exception ex)
+            {
+                Console.WriteLine("Error al crear empleado desde la capa intermedia: " + ex.Message);
+                MessageBox.Show("Error al crear empleado " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
     }
 }

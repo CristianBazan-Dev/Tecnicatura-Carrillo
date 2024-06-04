@@ -28,3 +28,10 @@ D:\Documentos\Tecnicatura\Repositorio\Tecnicatura-Carrillo\Segundo\Practica Prof
 D:\Documentos\Tecnicatura\Repositorio\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CreacionFormularios\bin\Debug\CapaDatos.pdb
 D:\Documentos\Tecnicatura\Repositorio\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CreacionFormularios\bin\Debug\CapaEntidad.pdb
 D:\Documentos\Tecnicatura\Repositorio\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CreacionFormularios\bin\Debug\CapaNegocio.pdb
+C:\Users\Note 20\Desktop\ElFachas\Programacion II\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CreacionFormularios\bin\Debug\CapaDatos.dll
+C:\Users\Note 20\Desktop\ElFachas\Programacion II\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CreacionFormularios\bin\Debug\CapaEntidad.dll
+C:\Users\Note 20\Desktop\ElFachas\Programacion II\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CreacionFormularios\bin\Debug\CapaNegocio.dll
+C:\Users\Note 20\Desktop\ElFachas\Programacion II\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CreacionFormularios\bin\Debug\CapaDatos.pdb
+C:\Users\Note 20\Desktop\ElFachas\Programacion II\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CreacionFormularios\bin\Debug\CapaEntidad.pdb
+C:\Users\Note 20\Desktop\ElFachas\Programacion II\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CreacionFormularios\bin\Debug\CapaNegocio.pdb
+C:\Users\Note 20\Desktop\ElFachas\Programacion II\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CreacionFormularios\obj\Debug\CreacionFormularios.Forms.Creacion.FrmEmpleados.resources

@@ -13,6 +13,7 @@ using System.Configuration;
 using CapaNegocio;
 using CapaEntidad;
 using System.Windows.Interop;
+using CreacionFormularios.Forms.Creacion;
 
 namespace CreacionFormularios
 {
@@ -24,11 +25,6 @@ namespace CreacionFormularios
             InitializeComponent();
         }
 
-        private void BtnLibrary_Click(object sender, EventArgs e)
-        {
-            Biblioteca LibraryForm = new Biblioteca();
-            LibraryForm.Show();
-        }
 
         private void BtnProfesors_Click(object sender, EventArgs e)
         {
@@ -53,13 +49,18 @@ namespace CreacionFormularios
 
             List<Empleados> listaEmpleados = cnEmpleados.Listar();
 
-            foreach (Empleados empleado in listaEmpleados)
-            {
-                MessageBox.Show($"Empleado: {empleado.Nombre}", "Información", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                Console.WriteLine($"Empleado: {empleado.Nombre}");
-            }
+            //foreach (Empleados empleado in listaEmpleados)
+            //{
+            //    MessageBox.Show($"Empleado: {empleado.Nombre}", "Información", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            //    Console.WriteLine($"Empleado: {empleado.Nombre}");
+            //}
 
         }
 
+        private void BtnEmpleados_Click(object sender, EventArgs e)
+        {
+            FrmEmpleados FrmEmpleados = new FrmEmpleados();
+            FrmEmpleados.Show();
+        }
     }
 }

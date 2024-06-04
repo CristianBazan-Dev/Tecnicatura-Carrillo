@@ -7,3 +7,12 @@ D:\Documentos\Tecnicatura\Repositorio\Tecnicatura-Carrillo\Segundo\Practica Prof
 D:\Documentos\Tecnicatura\Repositorio\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\Capadatos\obj\Debug\Capadatos.csproj.Up2Date
 D:\Documentos\Tecnicatura\Repositorio\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\Capadatos\obj\Debug\CapaDatos.dll
 D:\Documentos\Tecnicatura\Repositorio\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\Capadatos\obj\Debug\CapaDatos.pdb
+C:\Users\Note 20\Desktop\ElFachas\Programacion II\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\Capadatos\bin\Debug\CapaDatos.dll
+C:\Users\Note 20\Desktop\ElFachas\Programacion II\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\Capadatos\bin\Debug\CapaDatos.pdb
+C:\Users\Note 20\Desktop\ElFachas\Programacion II\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\Capadatos\bin\Debug\CapaEntidad.dll
+C:\Users\Note 20\Desktop\ElFachas\Programacion II\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\Capadatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Note 20\Desktop\ElFachas\Programacion II\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\Capadatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Note 20\Desktop\ElFachas\Programacion II\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\Capadatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Note 20\Desktop\ElFachas\Programacion II\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\Capadatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Note 20\Desktop\ElFachas\Programacion II\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\Capadatos\obj\Debug\CapaDatos.dll
+C:\Users\Note 20\Desktop\ElFachas\Programacion II\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\Capadatos\obj\Debug\CapaDatos.pdb

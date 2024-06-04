@@ -15,14 +15,10 @@ namespace CapaEntidad
 
         public string Apellido { get; set; }
 
-        public string Telefono { get; set; }
+        public string Dni { get; set; }
 
-        public string Direccion { get; set; }
+        public string Telefono {  get; set; }
 
-        public string Localidad {  get; set; }
-
-        public string Provincia {  get; set; }
-
-        public int Activo { get; set; }
+        public string Horario {  get; set; }
     }
 }

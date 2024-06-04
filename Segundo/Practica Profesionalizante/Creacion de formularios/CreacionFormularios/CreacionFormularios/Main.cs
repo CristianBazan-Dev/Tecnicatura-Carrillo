@@ -2,13 +2,17 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.SqlClient;
 using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using CreacionFormularios.Forms;
-
+using System.Configuration;
+using CapaNegocio;
+using CapaEntidad;
+using System.Windows.Interop;
 
 namespace CreacionFormularios
 {
@@ -28,7 +32,7 @@ namespace CreacionFormularios
 
         private void BtnProfesors_Click(object sender, EventArgs e)
         {
-            Profesores ProfesorsForm = new Profesores();
+            ProfesoresForm ProfesorsForm = new ProfesoresForm();
             ProfesorsForm.Show();
         }
 
@@ -42,5 +46,20 @@ namespace CreacionFormularios
         {
             this.Close();
         }
+
+        private void Main_Load(object sender, EventArgs e)
+        {
+           CN_Empleados cnEmpleados = new CN_Empleados();
+
+            List<Empleados> listaEmpleados = cnEmpleados.Listar();
+
+            foreach (Empleados empleado in listaEmpleados)
+            {
+                MessageBox.Show($"Empleado: {empleado.Nombre}", "Información", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                Console.WriteLine($"Empleado: {empleado.Nombre}");
+            }
+
+        }
+
     }
 }

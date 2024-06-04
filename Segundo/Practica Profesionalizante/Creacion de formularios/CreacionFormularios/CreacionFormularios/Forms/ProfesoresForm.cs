@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace CreacionFormularios.Forms
 {
-    public partial class Profesores : Form
+    public partial class ProfesoresForm : Form
     {
-        public Profesores()
+        public ProfesoresForm()
         {
             InitializeComponent();
         }

@@ -10,3 +10,21 @@ C:\Users\Note 20\Desktop\ElFachas\Programacion II\Tecnicatura-Carrillo\Segundo\P
 C:\Users\Note 20\Desktop\ElFachas\Programacion II\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CreacionFormularios\obj\Debug\CreacionFormularios.csproj.CopyComplete
 C:\Users\Note 20\Desktop\ElFachas\Programacion II\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CreacionFormularios\obj\Debug\CreacionFormularios.exe
 C:\Users\Note 20\Desktop\ElFachas\Programacion II\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CreacionFormularios\obj\Debug\CreacionFormularios.pdb
+D:\Documentos\Tecnicatura\Repositorio\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CreacionFormularios\bin\Debug\CreacionFormularios.exe.config
+D:\Documentos\Tecnicatura\Repositorio\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CreacionFormularios\bin\Debug\CreacionFormularios.exe
+D:\Documentos\Tecnicatura\Repositorio\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CreacionFormularios\bin\Debug\CreacionFormularios.pdb
+D:\Documentos\Tecnicatura\Repositorio\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CreacionFormularios\bin\Debug\FontAwesome.Sharp.dll
+D:\Documentos\Tecnicatura\Repositorio\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CreacionFormularios\obj\Debug\CreacionFormularios.csproj.AssemblyReference.cache
+D:\Documentos\Tecnicatura\Repositorio\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CreacionFormularios\obj\Debug\CreacionFormularios.Main.resources
+D:\Documentos\Tecnicatura\Repositorio\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CreacionFormularios\obj\Debug\CreacionFormularios.Properties.Resources.resources
+D:\Documentos\Tecnicatura\Repositorio\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CreacionFormularios\obj\Debug\CreacionFormularios.csproj.GenerateResource.cache
+D:\Documentos\Tecnicatura\Repositorio\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CreacionFormularios\obj\Debug\CreacionFormularios.csproj.CoreCompileInputs.cache
+D:\Documentos\Tecnicatura\Repositorio\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CreacionFormularios\obj\Debug\Creacion.DADF0093.Up2Date
+D:\Documentos\Tecnicatura\Repositorio\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CreacionFormularios\obj\Debug\CreacionFormularios.exe
+D:\Documentos\Tecnicatura\Repositorio\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CreacionFormularios\obj\Debug\CreacionFormularios.pdb
+D:\Documentos\Tecnicatura\Repositorio\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CreacionFormularios\bin\Debug\CapaDatos.dll
+D:\Documentos\Tecnicatura\Repositorio\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CreacionFormularios\bin\Debug\CapaEntidad.dll
+D:\Documentos\Tecnicatura\Repositorio\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CreacionFormularios\bin\Debug\CapaNegocio.dll
+D:\Documentos\Tecnicatura\Repositorio\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CreacionFormularios\bin\Debug\CapaDatos.pdb
+D:\Documentos\Tecnicatura\Repositorio\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CreacionFormularios\bin\Debug\CapaEntidad.pdb
+D:\Documentos\Tecnicatura\Repositorio\Tecnicatura-Carrillo\Segundo\Practica Profesionalizante\Creacion de formularios\CreacionFormularios\CreacionFormularios\bin\Debug\CapaNegocio.pdb

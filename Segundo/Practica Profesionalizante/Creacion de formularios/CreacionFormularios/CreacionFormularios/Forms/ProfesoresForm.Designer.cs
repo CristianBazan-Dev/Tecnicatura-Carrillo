@@ -1,7 +1,7 @@
 ﻿
 namespace CreacionFormularios.Forms
 {
-    partial class Profesores
+    partial class ProfesoresForm
     {
         /// <summary>
         /// Required designer variable.

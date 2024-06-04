@@ -39,6 +39,7 @@
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xaml" />
     <Reference Include="System.Xml.Linq" />
@@ -65,11 +66,11 @@
     <Compile Include="Forms\Estudiantes.Designer.cs">
       <DependentUpon>Estudiantes.cs</DependentUpon>
     </Compile>
-    <Compile Include="Forms\Profesores.cs">
+    <Compile Include="Forms\ProfesoresForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Forms\Profesores.Designer.cs">
-      <DependentUpon>Profesores.cs</DependentUpon>
+    <Compile Include="Forms\ProfesoresForm.Designer.cs">
+      <DependentUpon>ProfesoresForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Main.cs">
       <SubType>Form</SubType>
@@ -105,6 +106,19 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\Capadatos\CapaDatos.csproj">
+      <Project>{b347de9a-75a1-4fe8-8c61-b336c743ae49}</Project>
+      <Name>CapaDatos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaEntidad\CapaEntidad.csproj">
+      <Project>{b1f677e3-fe84-47ae-a790-3cabb54551cb}</Project>
+      <Name>CapaEntidad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaNegocio\CapaNegocio.csproj">
+      <Project>{c0812677-b163-4f68-8058-bcebeb4cc067}</Project>
+      <Name>CapaNegocio</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

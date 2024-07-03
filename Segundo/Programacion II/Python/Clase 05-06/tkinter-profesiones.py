@@ -1,7 +1,6 @@
 import tkinter as tk
 from tkinter import messagebox
 
-
 def submit_person():
     # Obtener los valores ingresados por el usuario para la persona
     nombre = entry_nombre.get()
